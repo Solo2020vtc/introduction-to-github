@@ -1,4 +1,4 @@
-<header>
+README<header>
 
 <!--
   <<< Author notes: Course header >>>
